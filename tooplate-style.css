@@ -183,8 +183,10 @@ p:last-child {
 .tm-feature-icon {
   margin-right: 30px;
 }
+
+
 .rn {
-  background-color: white; /* Green */
+  background-color: white; 
   border: none;
   color: #8B008D ;
   padding: 15px 32px;
@@ -193,7 +195,7 @@ p:last-child {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin: 4px 2px;
+  margin: -10px -10px;
   cursor: pointer;
 }
 
